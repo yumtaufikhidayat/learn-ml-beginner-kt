@@ -1,1 +1,1 @@
-Google Colab: [Latihan Studi Kasus: Klasifikasi Pelanggan untuk Churn pada Perusahaan XYZ.ipynb](https://colab.research.google.com/drive/1jlgT1yVCOnKB-zQZYCTVuvZOqWHcFMWp#scrollTo=FUKrID7pacMF)
+- Google Colab: [Latihan Studi Kasus: Klasifikasi Pelanggan untuk Churn pada Perusahaan XYZ.ipynb](https://colab.research.google.com/drive/1jlgT1yVCOnKB-zQZYCTVuvZOqWHcFMWp#scrollTo=FUKrID7pacMF)
